@@ -1,2 +1,3 @@
 # github-repos-testing
-Repos foor testing GitHub features 
+
+This project is used for testing GitHub features.
